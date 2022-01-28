@@ -28,7 +28,7 @@ android {
 
 publishing {
     publications {
-        mavenJava(mavenPublication) {
+        mavenJava(MavenPublication) {
             groupId = "com.github.arronyee"
             artifactId = "GearView"
             version = "0.0.3"
