@@ -30,7 +30,7 @@ publishing {
     publications {
         mavenJava(MavenPublication) {
             groupId = "com.github.arronyee"
-            artifactId = "GearView"
+            artifactId = "gearview"
             version = "0.0.3"
 
             from components.java
