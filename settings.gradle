@@ -1,0 +1,3 @@
+rootProject.name = "GearView"
+include ':app'
+include ':gearview'
