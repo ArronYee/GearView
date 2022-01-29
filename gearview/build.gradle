@@ -37,17 +37,17 @@ android {
     }
 }
 
-publishing {
-    publications {
-        mavenJava(MavenPublication) {
-            groupId = "com.github.arronyee"
-            artifactId = "gearview"
-            version = "0.0.3"
-
-            from components.java
-        }
-    }
-}
+//publishing {
+//    publications {
+//        mavenJava(MavenPublication) {
+//            groupId = "com.github.arronyee"
+//            artifactId = "gearview"
+//            version = "0.0.3"
+//
+//            from components.java
+//        }
+//    }
+//}
 
 dependencies {
 
