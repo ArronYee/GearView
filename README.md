@@ -23,10 +23,22 @@ In this folder repository contains:
 
 ## Install
 
-This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
+In your project build.gradle:
 
 ```sh
-$ npm install --global standard-readme-spec
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+In your needed module
+```sh
+	dependencies {
+		implementation 'com.github.ArronYee:GearView:0.0.7'
+	}
 ```
 
 ## Usage
