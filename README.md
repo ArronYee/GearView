@@ -1,8 +1,6 @@
 # GearView
 
-
-
-<!-- [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) -->
+[![](https://jitpack.io/v/ArronYee/GearView.svg)](https://jitpack.io/#ArronYee/GearView)
 
 ![img](https://github.com/ArronYee/GearView/blob/main/SVID_20220128_111743_1.gif)
 
