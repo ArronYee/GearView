@@ -4,7 +4,7 @@
 
 ![img](https://github.com/ArronYee/GearView/blob/main/SVID_20220128_111743_1.gif)
 
-It's a sample view style,just one file ,also you can modify it to your project.
+It's a sample view style,just one file ,you can modify it to your project.
 
 
 ## Install
